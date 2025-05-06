@@ -26,3 +26,6 @@ klif,Kaspersky Lab Intermediate Filter
 aswSP,Avast! Antivirus
 Symantec Endpoint Protection,Symantec Endpoint Protection
 TmXPFlt,Trend Micro Anti-Virus
+bbwarsaw,Warsaw
+bbwarsaw64,Warsaw
+Warsaw,Warsaw
